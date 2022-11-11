@@ -1,2 +1,2 @@
 # praktikum_datasets
-Datasets for Data Science and AI Praktikum
+Datasets for Data Science and AI Praktikum course
